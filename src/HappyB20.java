@@ -4,5 +4,7 @@ public class HappyB20 {
 
         System.out.println("Yuhhhu");
 
+        System.out.println("Happy B20");
+
     }
 }
