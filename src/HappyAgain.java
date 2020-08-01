@@ -6,7 +6,8 @@ public class HappyAgain {
 
         // this people haven't got a clue
 
-}
+
+    }
 
 
 }
